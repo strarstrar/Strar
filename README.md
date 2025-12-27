@@ -1,0 +1,2 @@
+# Strar
+Homepage for Strar
